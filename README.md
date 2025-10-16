@@ -1,11 +1,6 @@
-#   .-""""""""""""""""""""""""""""""-.
-#  /  BOO! I'm a friendly ghost!    \
-# /__________________________________\
-#  | |  |   |  |   |  |   |  |   |  |
-#  | |  |   |  |   |  |   |  |   |  |
-#
-# "The friendly ghost of robots.txt past"
-# ---------------------------------                                                                                            
+# Why was the SEO specialist bad at telling jokes?
+# They kept getting penalized for duplicate content!
+# ---------------------------------                                                                                  
 ![Coding Animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ![Visitor Count](https://profile-counter.glitch.me/{ferdian32}/count.svg)
